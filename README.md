@@ -1,8 +1,10 @@
 # PB
 DA project
 
+
 ## Ceci est un mini projet 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nevermind78/PB/main?labpath=index.ipynb)
 
 ## :file_folder: dataset 
 
